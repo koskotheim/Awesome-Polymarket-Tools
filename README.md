@@ -88,7 +88,7 @@ Polymarket is a decentralized information markets platform where users can trade
 
 ### Forecasting & Inference APIs
 
-- [Lightning Rod Foresight Models](https://www.lightningrod.ai/models) - OpenAI-compatible forecasting inference API for calibrated forecasts across question types, usable in agents, notebooks, and market tooling
+- [Lightning Rod Foresight Models](https://www.lightningrod.ai/models) - AI for predictions through an OpenAI-compatible API
 
 ### API Marketplaces
 
